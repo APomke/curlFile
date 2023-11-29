@@ -61,7 +61,7 @@ curl -F "file=@文件名" -X POST "http://ip或者域名"
 定义文件路径和目标 URL
 ```
 $file = "C:\path\to\your\file\jquery-3.7.0.js"
-$url = "http://upload.unicornfront.com"
+$url = "http://upload.xxx.com"
 ```
 使用 Invoke-RestMethod 执行文件上传
 ```
